@@ -1,4 +1,4 @@
-# Job Executor with SMS and Email Capabilities
+# cron-sms-email-server
 
 ## Description
 This NestJS-based server application automates tasks with SMS and email features using Nodemailer, Twilio, Axios, and node-cron.
