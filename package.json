@@ -1,8 +1,8 @@
 {
   "name": "cron-sms-email-server",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "This NestJS-based server application automates tasks with SMS and email features using Nodemailer, Twilio, Axios, and node-cron.",
+  "author": "Kabir Ademola Adigun",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
